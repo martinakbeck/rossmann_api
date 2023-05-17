@@ -11,3 +11,4 @@ requests==2.30.0
 scikit-learn
 scipy==1.9.3
 seaborn
+xgboost
