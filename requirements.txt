@@ -1,0 +1,13 @@
+Boruta==0.3
+Flask==2.3.2
+inflection==0.5.1
+ipython
+matplotlib
+matplotlib-inline
+numpy==1.24.1
+pandas
+pickleshare
+requests==2.30.0
+scikit-learn
+scipy==1.9.3
+seaborn
